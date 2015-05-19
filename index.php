@@ -5,7 +5,7 @@
     </head>
     <body>
         <?php
-        echo 'Fine';
+        echo 'New Fine';
         ?>
     </body>
 </html>
